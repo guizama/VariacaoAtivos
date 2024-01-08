@@ -7,9 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariacaoAtivos.Service", "V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariacaoAtivos.Domain", "VariacaoAtivos.Domain\VariacaoAtivos.Domain.csproj", "{DAB71988-6215-4A5E-82E0-9AE412F4E2DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariacaoAtivos.Application", "VariacaoAtivos.Application\VariacaoAtivos.Application.csproj", "{94CFC8C6-BCD8-4006-90FD-D2FA7C26F7DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariacaoAtivos.Application", "VariacaoAtivos.Application\VariacaoAtivos.Application.csproj", "{94CFC8C6-BCD8-4006-90FD-D2FA7C26F7DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariacaoAtivos.BD", "VariacaoAtivos.BD\VariacaoAtivos.BD.csproj", "{88C3BBDD-43E7-4131-BF13-567211FD6952}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariacaoAtivos.BD", "VariacaoAtivos.BD\VariacaoAtivos.BD.csproj", "{88C3BBDD-43E7-4131-BF13-567211FD6952}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{27C66B61-303C-4D57-AC6B-8882C58E4059}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
